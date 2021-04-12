@@ -1,0 +1,16 @@
+Backend Service
+
+Goal
+
+Technical stack
+    Docker
+    db choice Mongo
+    Nestjs
+    Vue
+
+Feature:
+    User profile - login/logout
+    basic auth
+    for each input image, save both style transfered and original image
+
+input image
